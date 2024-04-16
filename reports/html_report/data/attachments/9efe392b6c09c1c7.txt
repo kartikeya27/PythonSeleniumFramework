@@ -1,0 +1,12 @@
+The text is: 2 Stops
+Test failed
+The text is: 2 Stops
+Test failed
+The text is: 
+Test failed
+The text is: 2 Stops
+Test failed
+The text is: 2 Stops
+Test failed
+The text is: 
+Test failed

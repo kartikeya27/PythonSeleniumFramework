@@ -1,0 +1,4 @@
+The text is: 2 Stop(s)
+Test failed
+The text is: 2 Stop(s)
+Test failed
