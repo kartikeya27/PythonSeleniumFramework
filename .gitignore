@@ -8,4 +8,5 @@ assets/
 myenv/
 env/
 venv/
-
+reports/
+allure-repor/t

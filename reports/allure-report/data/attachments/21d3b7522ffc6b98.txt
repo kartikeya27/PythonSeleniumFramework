@@ -1,2 +1,0 @@
-[32mINFO    [0m LaunchPage:launch_page.py:53 Clicked on going to
-[32mINFO    [0m LaunchPage:launch_page.py:56 Typed text into going to field successfully
