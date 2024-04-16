@@ -1,0 +1,4 @@
+[32mINFO    [0m LaunchPage:launch_page.py:53 Clicked on going to
+[32mINFO    [0m LaunchPage:launch_page.py:56 Typed text into going to field successfully
+[33mWARNING [0m SearchFlightResults:search_flights_results_page.py:38 Selected flights with 2 stop
+[32mINFO    [0m TestSearchAndVerifyFilter:test_searchflights.py:37 6

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Apr 14 16:59:38 PDT 2024","Sun Apr 14 16:59:55 PDT 2024","16861","testcases","test_searchflights","TestSearchAndVerifyFilter","","","test_search_flights_1_stop_3___DEL____AMD____25_05_2024____1_Stop__",""
+"failed","Sun Apr 14 16:57:36 PDT 2024","Sun Apr 14 16:57:58 PDT 2024","21504","testcases","test_searchflights","TestSearchAndVerifyFilter","","","test_search_flights_1_stop_1___DEL____JFK____25_06_2024____2_Stop__",""
+"broken","Sun Apr 14 16:58:03 PDT 2024","Sun Apr 14 16:59:30 PDT 2024","87802","testcases","test_searchflights","TestSearchAndVerifyFilter","","","test_search_flights_1_stop_2___DEL____JFK____25_05_2024____1_Stop__",""
+"broken","Sun Apr 14 17:00:00 PDT 2024","Sun Apr 14 17:00:19 PDT 2024","18369","testcases","test_searchflights","TestSearchAndVerifyFilter","","","test_search_flights_1_stop_4___DEL____BOM____25_12_2024____2_Stop__",""

@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.pytest_cache/
+*.log
+*__pycache__
+.vscode
+assets/
+myenv/
+env/
+venv/
+
