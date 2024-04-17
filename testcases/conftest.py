@@ -2,6 +2,8 @@ import pytest
 import os
 import time
 import allure
+import json
+import sys
 from allure_commons.types import AttachmentType
 
 
@@ -90,8 +92,6 @@ def pytest_runtest_makereport(item):
             if os.path.exists(screenshot_path):
                 with open(screenshot_path, 'rb') as file:
                     allure.attach(file.read(), name='Screenshot on failure', attachment_type=allure.attachment_type.PNG)
-
-
-
+                    
 def pytest_html_report_title(report):
     report.title = "Yatra Travel Website Automation Report"              
