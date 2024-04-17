@@ -2,8 +2,6 @@ import pytest
 import os
 import time
 import allure
-import json
-import sys
 from allure_commons.types import AttachmentType
 
 
