@@ -1,7 +1,7 @@
 import pytest
 import softest
 from pages.launch_page import LaunchPage
-from ddt import ddt, data, file_data, unpack
+from ddt import ddt, data, unpack
 from utilities.utils import Utils
 
 @pytest.mark.usefixtures("setup")
